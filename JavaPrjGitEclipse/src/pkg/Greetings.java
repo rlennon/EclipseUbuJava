@@ -5,6 +5,8 @@ package pkg;
 
 /**
  * @author l0012345
+ * 
+ * @version 1.0
  *
  */
 public class Greetings {
